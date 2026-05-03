@@ -1,12 +1,16 @@
 # Single Page CV
+
 This is my single-page CV project built using HTML.
 
 ## Project Description
+
 This project is a simple CV webpage created using 
 semantic HTML, CSS, and SEO meta tags.
 
 ##project url
+
 https://roadmap.sh/projects/single-page-cv
 
 ##live demo
+
 https://sravanthikanugula57-crypto.github.io/Single-page-Cv/
